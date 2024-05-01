@@ -1,3 +1,6 @@
+this is a fork i made that fixed out of date issues. i only include the plugin.js
+
+
 # DiscordFreeEmojis
 
 If you don't have nitro, post the emojis as links!<br>
